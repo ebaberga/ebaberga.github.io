@@ -1,13 +1,11 @@
-# index.html
-Welcome to the index.html wiki!
 <!DOCTYPE html>
 <html>
 <head>
-<title>Who to design a website</title>
+<title>How to design a website</title>
 <body>
 
-<h1>First Step to create a web page </h1>
-<p>Create a notepad account .</p>
+<h1> Things necessary to note while designing a website  </h1>
+<p>Create a notepad account and save it as "username.html".The steps for designing a web are listed on the file named </p>
 
 </body>
 </html>
