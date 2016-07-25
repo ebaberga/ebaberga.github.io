@@ -9,3 +9,60 @@
 
 </body>
 </html>
+<html>
+<link rel="stylesheet" type="text/css" href="eba1.css">
+<title><font size="20";font style="time new romance"</font> Welcome To CHAPTER 1 </title>
+</head>
+<body><h1>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;CHAPTER 1</h1>
+	<MARQUEE><font size="21" font color="red">THE NATURE OF SCIENCE AND PHYSICS</font></MARQUEE>
+<div class="ex2">
+    <tag-name attribute="first"><b> <font size="30">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Physical Quantity</font></b></tag-name>
+<div id="circle">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</div>
+
+<ul>
+<li>The concern of describing observable facts in nature essentially defines the realm of physics.</li>	
+<li>Physics quantity is anything that can be measured or calculated.</li>
+</ul>
+
+<samp> velocity= distance /time Distance and time are measureable factors, and velocity is the calculated.</samp>
+
+         <h1><b>  Common prefixes and scientific notation</b> </h1> 
+         <ul>
+<li>Scientific notation: is a method of writing repeated zero in the form of 10 the power of positive integer. “b x 10 postive integer”  the value of “b” should be between 0 and 10. Eg: 160000m= 1.6 x 105 m
+</li>
+
+<li>	Prefixes: are names given for a specific value of 10postive integer. Eg: 1018=exa  if it is a distance then 1018 will be examerter. 
+ </li>
+<h1><b>MODEL, LAW, PRINCPLE AND LAW&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</b></h1>
+<li>	Laws: are rules that govern our universe. Laws in nature already exist. No human can create them, but they can discover these laws. Eg: Newton’s law of motion, Gas law etc………….
+</li>
+</div>
+<div class="ex1">
+
+<li>Theories: are generalized explanation of nature that are supported by evidence and are approved after numerous trails.
+</li>
+
+<li>	Models: is a presentation of something which can’t be directly displayed directly. Eg: Dalton’s atomic model(billiard ball model)                             Atom    
+
+<li>This model was passed because atoms can’t be displayed directly.</li>
+</ul>   
+<h1 div class="ex2"><b>&nbsp;&nbsp;&nbsp;&nbsp;Accuracy, Precision and Uncertainty</b> </h1>
+<ul div class="ex2">
+<li>	Accuracy: measures how close the number is to the correct value.</li>
+<li>Precision: measures how close the repeatedly measured values are.
+	</li>
+<li>Uncertainty: measures the inaccuracy of the measurement</li>
+</ul>
+
+
+   	
+<p>Eg: Given                              required                                                 solution
+      S= 10±0.2m                      v=?                                                          v= S/t
+      T= 2±0.4 sec                                                                                    v= 10/2=5 m/s
+   Uncertainty = 0.2 x 100%÷10 + 0.4 x 100% ÷ 2= 22%(0.22)   v= 5±0.22m/s</p>
+   </div>
+
+
+
+</body>
+</html>
